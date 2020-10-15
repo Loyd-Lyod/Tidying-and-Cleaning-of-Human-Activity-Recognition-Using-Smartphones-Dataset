@@ -1,1 +1,0 @@
-# Tidying-and-Cleaning-of-Human-Activity-Recognition-Using-Smartphones-Dataset
